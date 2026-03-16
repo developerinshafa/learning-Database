@@ -21,4 +21,7 @@ If you are developing a production application, we recommend using TypeScript wi
 !(image url)(https://github.com/developerinshafa/learning-Database/blob/d7a95ef83dbf9c1164880b8a621946ccd8157f16/img1.jpeg)
 
 ### Insert the table data
+!(image url)(https://github.com/developerinshafa/learning-Database/blob/9534111e8774fe7e8706fd284d94e2dd095904d5/img3.jpeg)
+
+### Add the Foring Key
 !(image url)()
