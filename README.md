@@ -30,7 +30,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ![Add table]()
 
 ### Multiple data
-![multiple id]()
+![multiple id](https://github.com/developerinshafa/learning-Database/blob/e229f7fd30451ce8e8ff1efd56371c9103bf4693/img6.jpeg)
 
 ### SQL select data
 ![select data]()
