@@ -16,3 +16,9 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
+# Learning DataBase
+### Create the Database
+!(image url)(https://github.com/developerinshafa/learning-Database/blob/d7a95ef83dbf9c1164880b8a621946ccd8157f16/img1.jpeg)
+
+### Insert the table data
+!(image url)()
