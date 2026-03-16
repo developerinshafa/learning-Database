@@ -39,7 +39,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ![mongoDB]()
 
 ### add the Multiple data
-![multiple data]()
+![multiple data](https://github.com/developerinshafa/learning-Database/blob/335d73a9f1d06b97a48a7d9f95bb56cecc188dbe/img9.jpeg)
 
 ### insertOne create in shell
 ![shell create](https://github.com/developerinshafa/learning-Database/blob/cb1b30b9e94a76e124dbafe1f76a9f2c12f35681/img10%20.jpeg)
