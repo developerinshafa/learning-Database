@@ -42,7 +42,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ![multiple data]()
 
 ### insertOne create in shell
-![shell create]()
+![shell create](https://github.com/developerinshafa/learning-Database/blob/cb1b30b9e94a76e124dbafe1f76a9f2c12f35681/img10%20.jpeg)
 
 ### create supabase
 ![supabase](https://github.com/developerinshafa/learning-Database/blob/a811553b43cc04c9df207b030c7a48982455a102/img12..jpeg)
