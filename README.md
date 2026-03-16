@@ -18,10 +18,31 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # Learning DataBase
 ### Create the Database
-!(image url)(https://github.com/developerinshafa/learning-Database/blob/d7a95ef83dbf9c1164880b8a621946ccd8157f16/img1.jpeg)
+![create database](https://github.com/developerinshafa/learning-Database/blob/d7a95ef83dbf9c1164880b8a621946ccd8157f16/img1.jpeg)
 
 ### Insert the table data
-!(image url)(https://github.com/developerinshafa/learning-Database/blob/9534111e8774fe7e8706fd284d94e2dd095904d5/img3.jpeg)
+![table datal](https://github.com/developerinshafa/learning-Database/blob/9534111e8774fe7e8706fd284d94e2dd095904d5/img3.jpeg)
 
 ### Add the Foring Key
-!(image url)()
+![Foring Keyl](https://github.com/developerinshafa/learning-Database/blob/639ca8a0d4eea4edf10e2e07e24b8aa33ad73370/img4.jpeg)
+
+### Add the table
+![Add table]()
+
+### Multiple data
+![multiple id]()
+
+### SQL select data
+![select data]()
+
+# Create the MongoDB
+![mongoDB]()
+
+### add the Multiple data
+![multiple data]()
+
+### insertOne create in shell
+![shell create]()
+
+### create supabase
+![supabase]()
