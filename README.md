@@ -33,7 +33,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ![multiple id](https://github.com/developerinshafa/learning-Database/blob/e229f7fd30451ce8e8ff1efd56371c9103bf4693/img6.jpeg)
 
 ### SQL select data
-![select data]()
+![select data](https://github.com/developerinshafa/learning-Database/blob/975125106c4ea773920f2e30a0a39d05992ef680/img7jpeg.jpeg)
 
 # Create the MongoDB
 ![mongoDB](https://github.com/developerinshafa/learning-Database/blob/0c48fa833f2d20b47d436f9167c60426387f9065/img8jpeg.jpeg)
